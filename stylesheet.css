@@ -5,13 +5,13 @@ h1 {
 }
 figure {
 	/*css placeholder*/
-	width:320;
-	height:240;
+	width:460px;
+	height:309px;
 	overflow:hidden;
 }
 figure img{
 	width:auto;
-	height:240;
+	height:309px;
 }
 p {
 
