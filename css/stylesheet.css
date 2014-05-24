@@ -8,7 +8,7 @@ figure .logo{
 	width: 800px;
 	height: 600px;
 	overflow:hidden;
-	background:url(/img/wow.jpg);
+	background:url(/img/wow.jpg) center no-repeat;
 	display:block;
 	text-indent:-9999px;
 }
