@@ -3,16 +3,19 @@ h1 {
 	/*css placeholder*/
 	border:blue solid 1px;
 }
-figure {
+figure .logo{
 	/*css placeholder*/
 	width: 800px;
 	height: 600px;
 	overflow:hidden;
+	background:url(/img/wow.jpg);
+	display:block;
 }
-figure img{
-	width:auto;
-	height: 600px;
+.logo:hover, .logo:focus {
+	background:url(/img/wowinvert.jpg);
 }
+
+
 p {
 
 }
