@@ -10,6 +10,7 @@ figure .logo{
 	overflow:hidden;
 	background:url(/img/wow.jpg);
 	display:block;
+	text-indent:-9999px;
 }
 .logo:hover, .logo:focus {
 	background:url(/img/wowinvert.jpg);
