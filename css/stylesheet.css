@@ -5,8 +5,8 @@ h1 {
 }
 figure .logo{
 	/*css placeholder*/
-	width: 800px;
-	height: 600px;
+	width: 200px;
+	height: 100px;
 	overflow:hidden;
 	background:url(/img/wow.png) center no-repeat;
 	display:block;
