@@ -3,11 +3,11 @@ h1 {
 	/*css placeholder*/
 	border:blue solid 1px;
 }
-a .logo{
+.logo{
 	/*css placeholder*/
+	background:url(wow.png);
 	width: 800px;
 	height: 600px;
-	background:url(wow.png);
 
 }
 /*.logo:hover, .logo:focus {
