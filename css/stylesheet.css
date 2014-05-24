@@ -6,7 +6,7 @@ h1 {
 .logo{
 	/*css placeholder*/
 	background:url(wow.png);
-	width: 800px;
+	width: auto;
 	height: 600px;
 
 }
