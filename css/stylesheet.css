@@ -8,12 +8,12 @@ figure .logo{
 	width: 800px;
 	height: 600px;
 	overflow:hidden;
-	background:url(/img/wow.jpg) center no-repeat;
+	background:url(/img/wow.png) center no-repeat;
 	display:block;
 	text-indent:-9999px;
 }
 .logo:hover, .logo:focus {
-	background:url(/img/wowinvert.jpg);
+	background:url(/img/wowinvert.png);
 }
 
 
