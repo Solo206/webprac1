@@ -9,6 +9,8 @@ h1 {
 	height: 100px;
 	overflow:hidden;
 	background:url(/img/wow.png);
+	display:block;
+	text-indent:-9999px;
 }
 .logo:hover, .logo:focus {
 	background:url(/img/wowinvert.png);
