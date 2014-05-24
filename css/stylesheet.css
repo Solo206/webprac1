@@ -2,19 +2,21 @@
 h1 {
 	/*css placeholder*/
 	border:blue solid 1px;
+	background:url(wow.jpg);
+	margin:10px auto;
+	padding: 10px auto;
 }
-.logo{
+/*.logo{
 	/*css placeholder*/
-	background:url(wow.png);
 	width: auto;
 	height: 600px;
 
-}
+}*/
 /*.logo:hover, .logo:focus {
 	background:url(/img/wowinvert.png);
 }*/
 
 
-p {
+/*p {
 	font-family:Garamond;
-}
+}/*
