@@ -1,22 +1,39 @@
-/*this is the stylesheet*/
-h1 {
-	/*css placeholder*/
-	border:blue solid 1px;
-	background:url(wow.jpg);
-	margin:10px auto;
-	padding: 10px auto;
+body {
+	color:white; /*text color*/
+	font-family: helvetica;
+	min-height:100%;
+	background:url(/img/tibet.png) no-repeat/*background color*/
+	background-size:cover;
+	background-position:center;
+
+
 }
-/*.logo{
-	/*css placeholder*/
-	width: auto;
-	height: 600px;
 
-}*/
-/*.logo:hover, .logo:focus {
-	background:url(/img/wowinvert.png);
-}*/
+header nav li{
+	display:inline-block;
+	text-align:center;
+	padding:10px;
+	border:10px;
+	margin-left:150px;
 
+}
+section {
+	text-align:center;
+}
 
-/*p {
-	font-family:Garamond;
-}/*
+section img{
+	border-radius:50%;
+
+}
+section p{
+	font-size:22px;
+}
+section input{
+	border:0;
+	padding:10px;
+	font-size:18px;
+}
+input[type="submit"]{
+	background:blue;
+	color:white;
+}
