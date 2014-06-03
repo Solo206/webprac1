@@ -1,6 +1,6 @@
 body {
 	text-align:center;
-	background: url(http://solo206.github.io/webprac1/img/tibet.png);/*background color*/
+	background: url(http://solo206.github.io/webprac1/img/tibet.png) no-repeat;/*background color*/
 	background-size: contain;
 	background-position: center;
 	color:#93ED9B;
