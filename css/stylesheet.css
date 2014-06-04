@@ -11,8 +11,7 @@ html{
 img{
 	border-radius:50%;
 }
-/*body{
-	background:#fff;
+body{
 	margin:0;
 	padding:0;
 	overflow:hidden;
@@ -20,7 +19,7 @@ img{
 	font-family: helvetica;
 	text-shadow: 0.1em 0.1em 0.05em #333;
 
-}*/
+}
 html,body{
 	height:100%;
 }
