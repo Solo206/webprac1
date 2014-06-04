@@ -37,11 +37,12 @@ header nav li{
 	text-align:center;
 	padding:10px;
 	border:10px;
-	margin-left:150px;
+	margin-left:100px;
 	color: #00FF7F;
 	background-color:#DCDCDC;
 	height:auto;
 	width:auto;
+	border-radius:40px;
 }
 nav li:hover{
 	color:#98FB98;
