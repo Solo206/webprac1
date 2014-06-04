@@ -10,7 +10,8 @@ html{
 }
 .decor{
 	margin-top:30px;
-	height:20px
+	height:20px;
+	width:20px;
 	background:yellow;
 }
 img{
