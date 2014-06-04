@@ -9,15 +9,15 @@ html{
 
 }
 .decor{
-	margin-top:30px;
-	height:20px;
+	margin-top:3em;
+	height:2em;
 	width:auto;
 	background:yellow;
 }
 img{
-	margin-top:30px;
+	margin-top:3em;
 	border-style:solid;
-	border-radius:15px;
+	border-radius:1em;
 }
 body{
 	margin:0;
@@ -35,14 +35,15 @@ html,body{
 header nav li{
 	display:inline-block;
 	text-align:center;
-	padding:10px;
-	border:10px;
-	margin-left:100px;
+	padding:1em;
+	border:1em;
+	margin-left:10em;
 	color: #00FF7F;
 	background-color:#DCDCDC;
 	height:auto;
 	width:auto;
-	border-radius:40px;
+	font-size:1em;
+	border-radius:4em;
 }
 nav li:hover{
 	color:#98FB98;
@@ -57,12 +58,12 @@ section {
 
 }*/
 p{
-	font-size:22px;
+	font-size:2em;
 }
 input{
 	border:0;
-	padding:10px;
-	font-size:18px;
+	padding:1em;
+	font-size:1em;
 }
 input[type="submit"]{
 	background:blue;
