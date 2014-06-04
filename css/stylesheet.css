@@ -8,6 +8,11 @@ html{
 	background-position: center;
 
 }
+.decor{
+	margin-top:30px;
+	height:20px
+	background:yellow;
+}
 img{
 	margin-top:30px;
 	border-style:solid;
