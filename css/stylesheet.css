@@ -6,13 +6,19 @@ html{
 	-o-background-size:cover;
 	background-size: cover;
 	background-position: center;
+}
+body{
+	backgorund:#fff;
+	margin:0;
+	padding:0;
+	overflow:hidden;
 	color:#93ED9B;
 	font-family: helvetica;
 	text-shadow: 0.1em 0.1em 0.05em #333;
-	
 
-
-
+}
+html,body{
+	height:100%;
 }
 
 /*header nav li{
