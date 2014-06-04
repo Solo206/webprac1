@@ -32,14 +32,21 @@ html,body{
 	height:100%;
 }
 
-/*header nav li{
+header nav li{
 	display:inline-block;
 	text-align:center;
 	padding:10px;
 	border:10px;
 	margin-left:150px;
-
+	color: #00FF7F;
+	background-color:#DCDCDC;
+	height:auto;
+	width:auto;
 }
+nav li:hover{
+	color:#98FB98;
+}
+
 section {
 	text-align:center;
 }
