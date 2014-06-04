@@ -6,17 +6,21 @@ html{
 	-o-background-size:cover;
 	background-size: cover;
 	background-position: center;
+
 }
-/*body{
-	backgorund:#fff;
+img{
+	border-radius:50%;
+}
+body{
+	background:#fff;
 	margin:0;
 	padding:0;
 	overflow:hidden;
-	color:#93ED9B;
+	color:gray;
 	font-family: helvetica;
 	text-shadow: 0.1em 0.1em 0.05em #333;
 
-}*/
+}
 html,body{
 	height:100%;
 }
@@ -33,7 +37,7 @@ section {
 	text-align:center;
 }
 
-section img{
+ img{
 	border-radius:50%;
 
 }*/
