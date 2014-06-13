@@ -1,10 +1,9 @@
 body{
 	text-align: center;
-	background: url("http://solo206.github.io/webprac1/img/tibet.png") no-repeat no-repeat;
+	background: url("http://solo206.github.io/webprac1/img/tibet.png") no-repeat;
 	-webkit-background-size:cover;
 	-moz-background-size:cover;
-	-webkit-background-position:center;
-	-moz-background-position:center;
+	background-position:center;
 	color:white;
 	font-family:helvetica;	
 }
