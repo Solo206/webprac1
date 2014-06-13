@@ -1,69 +1,23 @@
-html{
-	text-align:center;
-	background: url(http://solo206.github.io/webprac1/img/tibet.png) no-repeat;/*background color*/
-	-webkit-background-size;cover;
-	-moz-background-size:cover;
-	-o-background-size:cover;
-	background-size: cover;
-	background-position: center;
-
-}
-.decor{
-	margin-top:3em;
-	height:2em;
-	width:auto;
-	background:yellow;
-}
-img{
-	margin-top:3em;
-	border-style:solid;
-	border-radius:1em;
-}
 body{
-	margin:0;
-	padding:0;
-	overflow:hidden;
-	color:aqua;
-	font-family: helvetica;
-	text-shadow: 0.1em 0.1em 0.05em #333;
-
+	text-align: center;
+	background: url("http://solo206.github.io/webprac1/img/Jakesep.png");
+	background-size: cover;
+	background-position:center;
+	color:white;
+	font-family:helvetica;
 }
-html,body{
-	height:100%;
-}
-
-ul{
-	padding:10em;
-	background:rgba(0,0,0,.5);
-}
-
-li{
-	display:inline;
-	text-align:center;
-	padding:0 10em 0 10em;
-
-}
- li:hover{
-	color:#98FB98;
-}
-
-section {
-	text-align:center;
-}
-
- img{
-	border-radius:50%;
-
-}*/
 p{
-	font-size:2em;
+	font-size:22px;
 }
 input{
 	border:0;
-	padding:1em;
-	font-size:1em;
+	padding:10px;
+	font-size:18px;
 }
 input[type="submit"]{
-	background:blue;
+	background:aquamarine;
 	color:white;
+}
+img{
+	border-radius:50%;
 }
