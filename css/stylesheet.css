@@ -1,14 +1,17 @@
 html{
-	background: url("http://solo206.github.io/webprac1/img/tibet.png") no-repeat;
-	background-size:cover;
-	max-width:100%;
-	height:auto;
+	width:100%;
+
+
 }
 body{
 	text-align: center;
 	background-position:center;
 	color:white;
 	font-family:helvetica;
+	max-width:100%;
+	height:auto;
+	background: url("http://solo206.github.io/webprac1/img/tibet.png") no-repeat;
+	background-size:cover;
 }
 p{
 	font-size:22px;
