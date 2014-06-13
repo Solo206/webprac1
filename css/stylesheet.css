@@ -1,7 +1,9 @@
-body{
-	text-align: center;
+html{
 	background: url("http://solo206.github.io/webprac1/img/tibet.png");
 	background-size: cover;
+}
+body{
+	text-align: center;
 	background-position:center;
 	color:white;
 	font-family:helvetica;
