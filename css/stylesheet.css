@@ -1,6 +1,6 @@
-body{
+html{
 	text-align: center;
-	background: url("http://solo206.github.io/webprac1/img/tibet.png") center center no-repeat;
+	background: url("http://solo206.github.io/webprac1/img/tibet.png") 50% 50% no-repeat;
 	background-size:cover;
 	background-position:center;
 	color:white;
@@ -18,6 +18,6 @@ input[type="submit"]{
 	background:aquamarine;
 	color:white;
 }
-/*img{
+img{
 	border-radius:50%;
-}*/
+}
