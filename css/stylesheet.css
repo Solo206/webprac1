@@ -1,18 +1,11 @@
-html{
-	max-width:100%;
-	height:auto;
 
-
-}
 body{
 	text-align: center;
-	background-position:center;
-	color:white;
-	font-family:helvetica;
-	max-width:100%;
-	height:auto;
 	background: url("http://solo206.github.io/webprac1/img/tibet.png") no-repeat;
 	background-size:cover;
+	background-position:center;
+	color:white;
+	font-family:helvetica;	
 }
 p{
 	font-size:22px;
@@ -26,6 +19,6 @@ input[type="submit"]{
 	background:aquamarine;
 	color:white;
 }
-img{
+/*img{
 	border-radius:50%;
-}
+}*/
