@@ -1,6 +1,6 @@
 html{
 	background: url("http://solo206.github.io/webprac1/img/tibet.png");
-	background-size: cover;
+	margin:0 auto;
 }
 body{
 	text-align: center;
