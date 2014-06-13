@@ -32,20 +32,18 @@ html,body{
 	height:100%;
 }
 
-header nav li{
-	display:inline-block;
-	text-align:center;
-	padding:1em;
-	border:1em;
-	margin-left:10em;
-	color: #00FF7F;
-	background-color:#DCDCDC;
-	height:auto;
-	width:auto;
-	font-size:1em;
-	border-radius:4em;
+ul{
+	padding:10em;
+	background:rgba(0,0,0,.5);
 }
-nav li:hover{
+
+li{
+	display:inline;
+	text-align:center;
+	padding:0 10em 0 10em;
+
+}
+ li:hover{
 	color:#98FB98;
 }
 
