@@ -1,7 +1,7 @@
 html{
-	background: url("http://solo206.github.io/webprac1/img/tibet.png");
+	background: url("http://solo206.github.io/webprac1/img/tibet.png") no-repeat;
 	background-size:cover;
-	margin:auto 0;
+	max-height: 1080em;
 }
 body{
 	text-align: center;
