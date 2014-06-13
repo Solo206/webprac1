@@ -1,5 +1,6 @@
 body{
-	text-align: center;
+	-moz-text-align: center;
+	-webkit-text-align:center;
 	background: url("http://solo206.github.io/webprac1/img/tibet.png");
 	-webkit-background-size:cover;
 	-moz-background-size:cover;
